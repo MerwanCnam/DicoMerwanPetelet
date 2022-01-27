@@ -27,5 +27,5 @@ Sous ce tableau, on a des players audios des mots sélectionnés pour les pronon
 Les fichiers audio sont par ailleurs sauvegardé en local. <br/>
 A partir de ces fichiers, j'aurais pu effectuer le spectrogramme des audios mais la librairie librosa n'a pas pu être installée.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MerwanCnam/DictionnaireMerwanPetelet/HEAD)
-[Launch Voilà](https://mybinder.org/v2/gh/MerwanCnam/DictionnaireMerwanPetelet/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fmerwan_petelet_App.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MerwanCnam/DicoMerwanPetelet/HEAD)
+[Launch Voilà](https://mybinder.org/v2/gh/MerwanCnam/DicoMerwanPetelet/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fmerwan_petelet_App.ipynb)
