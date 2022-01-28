@@ -25,7 +25,9 @@ pour nombre de lignes la la plus petite des valeurs entre le nombre de mots resp
 En colonne il y a le mot vedette, le nombre de syllabes, la prononciation d'origine, Sampa et IP. <br/>
 Sous ce tableau, on a des players audios des mots sélectionnés pour les prononciations UK et US lorsque le mot a été trouvé sur le dictionnaire en ligne. <br/>
 Les fichiers audio sont par ailleurs sauvegardé en local. <br/>
-A partir de ces fichiers, j'aurais pu effectuer le spectrogramme des audios mais la librairie librosa n'a pas pu être installée.
+A partir de ces fichiers, j'aurais pu effectuer le spectrogramme des audios mais la librairie librosa n'a pas pu être installée. <br/>
+J'ai ensuite essayé d'effectuer les graphiques à l'aide des librairies moviepy et specgram. Le code fonctionne en local mais pas sur mybinder ni sur voila. <br/>
+Les codes sont donc commentés. Vous pouvez voir un exemple de graphique dans le dossier data/plot.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MerwanCnam/DicoMerwanPetelet/HEAD)<br/>
 [Launch Voilà](https://mybinder.org/v2/gh/MerwanCnam/DicoMerwanPetelet/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fmerwan_petelet_App.ipynb)
